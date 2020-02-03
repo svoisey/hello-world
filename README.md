@@ -1,2 +1,2 @@
 # hello-world
-This is the hello-world tutorial/lab that must be completed for CSC 154
+Hello, my name is Stephen and I am excited to be learning how to use Github.
